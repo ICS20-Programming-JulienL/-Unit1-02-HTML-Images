@@ -1,2 +1,2 @@
 # -Unit1-02-HTML-Images
-[![GitHub's Super Linter](https://github.com/<Lamour123>/<ICS20-Programming-JulienL>/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/<Lamour123>/<ICS20-Programming-JulienL>/actions)[![Run on Repl.it](https://repl.it/badge/github/<Lamour123>/<ICS20-Programming-JulienL>)](https://repl.it/github/<Lamour123>/<ICS20-Programming-JulienL>)
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-JulienL/Unit1-01-HTML-HelloWorld-/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-JulienL/Unit1-01-HTML-HelloWorld-/actions)
